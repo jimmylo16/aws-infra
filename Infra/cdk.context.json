@@ -1,0 +1,18 @@
+{
+  "hosted-zone:account=519238415387:domainName=test.helixvm.com:region=us-east-1": {
+    "Id": "/hostedzone/Z0168605262OWJ2GEFSPD",
+    "Name": "test.helixvm.com."
+  },
+  "hosted-zone:account=519238415387:domainName=qa.videong.helixvm.com:region=us-east-1": {
+    "Id": "/hostedzone/Z03753065O69S0ILKGVS",
+    "Name": "qa.videong.helixvm.com."
+  },
+  "hosted-zone:account=482407636571:domainName=soluntech.com:region=us-west-1": {
+    "Id": "/hostedzone/Z07598863HVQA7DKVMFRW",
+    "Name": "soluntech.com."
+  },
+  "hosted-zone:account=482407636571:domainName=soluntech.com:region=us-east-1": {
+    "Id": "/hostedzone/Z07598863HVQA7DKVMFRW",
+    "Name": "soluntech.com."
+  }
+}
